@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background : url("../Images/TEST1.jpg") no-repeat;
+	background-size: cover;
+}
+.Login
+{
+	width: 280px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	color: black;
+	margin : 0px 0px 0px 0px;
+	
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:column
+}
+.Login h1{
+float: left;
+font-size: 40px;
+border-bottom: 6px solid;
+margin-bottom: 50px;
+padding: 13px
+}
+button {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+	
+}
+#images
+{
+	margin : 0px 0px 0px 0px;
+	
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:column
+	
+}
