@@ -1,0 +1,50 @@
+body{
+ background : url("../Images/TEST1.jpg")
+}
+#TXT
+{
+		margin : 0px 0px 0px 0px;
+	
+	display: flex;
+    justify-content: center;
+	align-items : center;
+	flex-direction:column;
+}
+h3
+{
+	padding: 20px 20px 20px 20px;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+    justify-content: center;
+	align-items : center;
+	background-color: green;
+	color: white;
+	flex-direction:column;
+	text-align: center; 	
+}
+h1{
+	color: green
+}
+#images
+{
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:column
+}
+button
+{     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;}
+#Ah
+{
+	width: 400px;
+	justify-content: center;
+	align-items : center;
+	flex-direction:column;
+	display: flex;
+}
